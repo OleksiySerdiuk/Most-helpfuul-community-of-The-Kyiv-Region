@@ -164,9 +164,10 @@ https://www.datacamp.com/datalab/w/3c676a97-2e93-4301-b0eb-0d3850d12c88/edit
 ## Приклади візуалізації даних
 https://100.datavizproject.com/data-type/viz12/
 ![image](https://github.com/user-attachments/assets/8b28e859-5094-48c7-996c-3a04f4173a55)
-
 https://100.datavizproject.com/data-type/viz24/
+![image](https://github.com/user-attachments/assets/f4ea4eec-b593-4567-b43f-16425823140f)
 https://100.datavizproject.com/data-type/viz27/
+![image](https://github.com/user-attachments/assets/a33eda00-bf90-4423-97a3-825209122b6f)
 
 ## Статус проекту - "в процесі".
 
