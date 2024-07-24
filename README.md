@@ -163,6 +163,8 @@ https://www.datacamp.com/datalab/w/3c676a97-2e93-4301-b0eb-0d3850d12c88/edit
 
 ## Приклади візуалізації даних
 https://100.datavizproject.com/data-type/viz12/
+![image](https://github.com/user-attachments/assets/8b28e859-5094-48c7-996c-3a04f4173a55)
+
 https://100.datavizproject.com/data-type/viz24/
 https://100.datavizproject.com/data-type/viz27/
 
